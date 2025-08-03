@@ -1,15 +1,5 @@
-<div align="center">
-  <br>
-  <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
-  <br>  
-  <p align="center">
-    <i>Blog pessoal sobre estudos de programação, finanças/investimentos e filosofia estoica</i>
-  </p>
-</div>
 
----
-
-# Blog de Estudos: Programação, Finanças & Filosofia Estoica
+# Blog pessoal sobre estudos de programação, finanças/investimentos e filosofia estoica
 
 Este é um blog pessoal criado para compartilhar meus estudos e aprendizados nas áreas de **programação**, **finanças/investimentos** e também um pouco sobre **filosofia estoica**. Utiliza o tema [Reverie](https://github.com/amitmerchant1990/reverie), baseado em [Jekyll](https://jekyllrb.com/), e pode ser facilmente hospedado no [GitHub Pages](https://pages.github.com).
 
