@@ -24,7 +24,7 @@ No Linux, instale com:
 ```bash
 sudo apt update
 sudo apt install ruby-full build-essential zlib1g-dev
-gem install bundler jekyll
+sudo gem install bundler jekyll
 ```
 
 ### 2. Instalar dependências
@@ -32,7 +32,7 @@ gem install bundler jekyll
 No diretório do projeto, execute:
 
 ```bash
-bundle install
+sudo bundle install
 ```
 
 ### 3. Rodar o servidor local
