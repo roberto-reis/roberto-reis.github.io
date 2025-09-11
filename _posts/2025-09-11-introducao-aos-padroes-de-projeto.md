@@ -3,7 +3,7 @@ layout: post
 title: "Introdução aos Padrões de Projeto: aprendendo a pensar como um arquiteto de software"
 categories: [Programação, Design Patterns]
 excerpt: Um guia introdutório para entender o que são padrões de projeto, por que usá-los e como eles podem transformar a forma de escrever código.
-date: 2025-09-11 12:08:00 -0300
+date: 2025-09-11T12:08:00-03:00
 ---
 
 ### O que são padrões de projeto?
