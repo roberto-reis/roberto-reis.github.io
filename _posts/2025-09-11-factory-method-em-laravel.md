@@ -3,7 +3,7 @@ layout: post
 title: "Factory Method em Laravel: criando objetos de forma flexível"
 categories: [Programação, Design Patterns, Laravel]
 excerpt: Um exemplo prático de como aplicar o padrão Factory Method no Laravel para organizar e flexibilizar a criação de objetos.
-date: 2025-09-11 15:26:00 -0300
+date: 2025-09-11T15:26:00-03:00
 ---
 
 ### O que é o Factory Method?
