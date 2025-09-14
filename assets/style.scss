@@ -448,7 +448,7 @@ body:after {
     z-index: 1000;
 }
 
-.post h1{
+.post h1 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   font-weight: bold;
@@ -457,7 +457,7 @@ body:after {
   line-height: 1.2;
 }
 
-.page h1{
+.page h1 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   font-weight: bold;
@@ -466,15 +466,16 @@ body:after {
   line-height: 1.2;
 }
 
-.author_title{
+.author_title {
   text-align: center;
   color: #939aa1;
   letter-spacing: 2px;
 }
 
-.post_date{
+.post_date {
   text-align: center;
   color: #939aa1;
+  margin: 12px 0;
 }
 
 .cd-container a {
@@ -697,15 +698,22 @@ Modules - reusable parts of our design
 .post-tags {
   text-align: center;
   line-height: 35px;
+  margin: 10px 0;
 }
 
 .post-tags a {
   font-size: 14.5px;
-  padding: 2px 13px;
+  padding: 3px 13px;
   border: none;
-  background-color: #4CAF50;
+  background-color: #e0e3e8;
   border-radius: 50px;
-  color: #fff;
+  color: #404040;
+  transition: background 0.2s;
+}
+
+.post-tags a:hover {
+  background-color: #cfd2d6; // um pouco mais escuro no hover
+  color: #222;
 }
 
 .pagination a, .pagination span {
