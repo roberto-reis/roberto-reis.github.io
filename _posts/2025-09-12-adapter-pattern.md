@@ -14,8 +14,6 @@ Ele permite que classes que normalmente não poderiam trabalhar juntas consigam 
 
 Em resumo: você cria um **adaptador** que faz a ponte entre o que sua aplicação espera e o que o serviço externo oferece.  
 
----
-
 ### Exemplo prático em Laravel: integração com serviços de SMS
 
 Imagine que sua aplicação precisa enviar SMS.  
@@ -23,8 +21,6 @@ No início você usou uma biblioteca própria (`LocalSmsService`), mas depois a 
 
 O problema: sua aplicação já depende de uma interface própria, e não dá para mudar tudo.  
 A solução: aplicar o **Adapter Pattern**.  
-
----
 
 ### Implementando o Adapter Pattern
 
