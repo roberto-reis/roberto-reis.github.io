@@ -3,7 +3,7 @@ layout: post
 title: "Ikigai: descubra seu propósito de vida"
 categories: [Produtividade, Filosofia, Autoconhecimento]
 excerpt: Ikigai é um conceito japonês que nos ajuda a encontrar sentido na vida, unindo paixão, talento, necessidade do mundo e sustento.
-date: 2025-09-15T08:00:00-03:00
+date: 2025-09-15T09:00:00-03:00
 ---
 
 O **Ikigai** é um conceito japonês que significa, de forma simples, *"razão de viver"* ou *"aquilo que faz a vida valer a pena"*. Ele surge da interseção entre quatro dimensões fundamentais:
