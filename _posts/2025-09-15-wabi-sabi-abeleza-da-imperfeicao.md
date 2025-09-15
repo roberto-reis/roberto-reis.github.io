@@ -3,7 +3,7 @@ layout: post
 title: "Wabi-sabi: a beleza da imperfeição"
 categories: [Filosofia, Minimalismo, Autoconhecimento]
 excerpt: O Wabi-sabi é uma filosofia japonesa que nos ensina a enxergar beleza na imperfeição, na simplicidade e na passagem do tempo.
-date: 2025-09-15T08:10:00-03:00
+date: 2025-09-15T09:10:00-03:00
 ---
 
 O **Wabi-sabi** é uma filosofia estética e de vida originária do Japão que valoriza a **imperfeição, a impermanência e a simplicidade**.  
