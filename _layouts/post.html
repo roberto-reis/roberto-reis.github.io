@@ -27,8 +27,13 @@ layout: default
     {{ content }}
   </div>
 
-  <div>
-    <p><span class="share-box">Compartilhar:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
+  <div class="share-box">
+    <p>
+      <span class="share-box-title">Compartilhar:</span>
+      <a href="https://wa.me/?text={{ page.title | url_encode }}%20{{site.url}}{{page.url}}" target="_blank">WhatsApp</a>
+      <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>
+      <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a>
+    </p>
   </div>
 
   <!--<div class="date">

@@ -151,9 +151,22 @@ table tr td :last-child {
   background-color: #fff3ff;
 }
 
-.share-box {
+.share-box .share-box-title {
   font-weight: bold;
   color: #222;
+}
+
+.share-box a {
+  font-size: 14.5px;
+  padding: 2px 13px;
+  border: none;
+  background-color: #e0e3e8;
+  border-radius: 50px;
+  color: #404040;
+  transition: background 0.2s;
+}
+.share-box a:hover {
+  background-color: #cfd2d6;
 }
 
 span[data-pullquote] {
@@ -712,7 +725,7 @@ Modules - reusable parts of our design
 }
 
 .post-tags a:hover {
-  background-color: #cfd2d6; // um pouco mais escuro no hover
+  background-color: #cfd2d6;
   color: #222;
 }
 
