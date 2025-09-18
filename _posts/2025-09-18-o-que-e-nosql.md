@@ -2,7 +2,7 @@
 layout: post
 title: "O que é NoSQL? Bancos de dados não relacionais"
 categories: [Tecnologia, Bancos de Dados]
-excerpt: Uma introdução prática ao NoSQL, os bancos de dados não relacionais criados para lidar com escalabilidade e flexibilidade de dados.
+excerpt: "Uma introdução prática ao NoSQL, os bancos de dados não relacionais criados para lidar com escalabilidade e flexibilidade de dados."
 date: 2025-09-18T17:05:00-03:00
 ---
 
