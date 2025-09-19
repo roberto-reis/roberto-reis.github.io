@@ -2,7 +2,7 @@
 layout: post
 title: "O que é o Banco Central do Brasil (BACEN)?"
 categories: [Economia, Finanças]
-excerpt: Conheça a história, as funções e a importância do Banco Central do Brasil, órgão responsável por garantir a estabilidade da moeda e do sistema financeiro nacional.
+excerpt: "Conheça a história, as funções e a importância do Banco Central do Brasil, órgão responsável por garantir a estabilidade da moeda e do sistema financeiro nacional."
 date: 2025-09-19T16:50:00-03:00
 ---
 
