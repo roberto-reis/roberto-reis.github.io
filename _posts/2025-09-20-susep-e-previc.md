@@ -2,7 +2,7 @@
 layout: post
 title: "SUSEP e PREVIC: os órgãos que fiscalizam seguros e previdência complementar"
 categories: [Finanças, Economia]
-excerpt: Descubra como a Superintendência de Seguros Privados (SUSEP) e a Superintendência Nacional de Previdência Complementar (PREVIC) garantem segurança e transparência no mercado financeiro brasileiro.
+excerpt: "Descubra como a Superintendência de Seguros Privados (SUSEP) e a Superintendência Nacional de Previdência Complementar (PREVIC) garantem segurança e transparência no mercado financeiro brasileiro."
 date: 2025-09-20T07:20:00-03:00
 ---
 
