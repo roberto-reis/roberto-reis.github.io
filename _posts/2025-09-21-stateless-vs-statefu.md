@@ -2,7 +2,7 @@
 layout: post
 title: "Aplicações Stateless vs Stateful: Entenda a Diferença"
 categories: [Programação, Arquitetura de Software]
-excerpt: Descubra o que são aplicações stateless e stateful, suas diferenças práticas e quando usar cada abordagem no desenvolvimento de sistemas.
+excerpt: "Descubra o que são aplicações stateless e stateful, suas diferenças práticas e quando usar cada abordagem no desenvolvimento de sistemas."
 date: 2025-09-21T07:15:00-03:00
 ---
 
@@ -16,7 +16,7 @@ Cada chamada feita ao servidor é independente e contém todos os dados necessá
 - Autenticação normalmente via **tokens** (ex: JWT, API Tokens).  
 - Facilita **escalabilidade horizontal**, pois qualquer servidor pode atender a requisição.  
 
-👉 Exemplo: uma **API RESTful** que recebe o token do usuário a cada requisição.
+Exemplo: uma **API RESTful** que recebe o token do usuário a cada requisição.
 
 ## O que é uma aplicação Stateful?
 Já uma aplicação **stateful** mantém o estado da interação do usuário no servidor.  
