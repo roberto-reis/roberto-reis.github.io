@@ -64,15 +64,15 @@ h2 {
 }
 
 @media (min-width: 769px){
-	.post h2::before, .post h2::after {
-	    content: "";
-	    display: inline-block;
-	    vertical-align: middle;
-	    width: 26px;
-	    height: 1px;
-	    background: rgb(192, 211, 218);
-	    margin: 0px 30px;
-	}
+	// .post h2::before, .post h2::after {
+	//     content: "";
+	//     display: inline-block;
+	//     vertical-align: middle;
+	//     width: 26px;
+	//     height: 1px;
+	//     background: rgb(192, 211, 218);
+	//     margin: 0px 30px;
+	// }
 }
 
 h3 {
