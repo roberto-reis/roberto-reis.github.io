@@ -7,11 +7,16 @@ layout: default
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
-
         <div>
-          <p class="post_date">{{ post.date | date: "%e, %B %Y" }}</p>
+          <p class="post_date">{{ post.date | date: "%d/%m/%Y - %H:%M" }}</p>
         </div>
       </a>
+      <div class="post-tags">
+        {% for category in post.categories %}
+          <a href="{{site.baseurl}}/categories/#{{category | slugize}}" class="post-tag">{{category}}</a>
+          {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </div>
       <div class="entry">
         {{ post.excerpt }}
       </div>
